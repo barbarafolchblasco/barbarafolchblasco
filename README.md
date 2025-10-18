@@ -4,8 +4,7 @@ With a hybrid vision between digital design (UI/UX) and frontend development, I 
 
 Currently, while honing my programming and frontend development skills, I enjoy learning and discovering how design can come to life through code and become real implementations. I also believe in well-thought-out projects, in the details that make a difference, and in collaboration between creative and technical profiles.
 
-⚡ Fun fact: If you don't find me designing and programming, you can find me among books and a cup of chai latte. 📚
-
+⚡ Fun fact: If you don't find me designing and programming, you can find me among books and a cup of chai latte 📚☕️
 <!--
 **barbarafolchblasco/barbarafolchblasco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
