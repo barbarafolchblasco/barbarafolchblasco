@@ -1,5 +1,7 @@
 ## Hi! I'm Bàrbara 👋
 
+✨ With an hybrid vision between visual and UI/UX design and front-end development, I am passionate about transforming ideas into functional digital experiences, combining creativity, usability, and code.
+
 <!--
 **barbarafolchblasco/barbarafolchblasco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
