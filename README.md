@@ -1,4 +1,4 @@
-## 🖥️✨ Hello World! I'm Bàrbara 👋
+## 👩🏽‍💻✨ Hello World! I'm Bàrbara 👋
 
 With a hybrid vision between digital design (UI/UX) and frontend development, I am passionate about moving between the creative and technical sides, exploring how design and programming can work together to transform ideas and needs into functional, accessible digital products with personality, combining creativity, utility, and code. 
 
@@ -13,7 +13,7 @@ Currently, while honing my programming and frontend development skills, I enjoy 
 
 
 
-## Tech Stack
+## 🖥️⚒️ Tech Stack
 
 | **Programming Languages** | **Graphic Design & Multimedia** | **IDEs** | **Systems** | **Productivity** |
 |---|---|---|---|---|
