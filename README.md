@@ -6,7 +6,7 @@ Currently, while honing my programming and frontend development skills, I enjoy 
 
 ⚡ Fun fact: If you don't find me designing and programming, you can find me among books and a cup of chai latte 📚☕️  
 
-👁️ Would you like to view my web portfolio?<br>
+👁️ Would you like to discover my projects?<br>
 https://barbarafolchblasco.github.io/Portfolio_Web/
 
 📫 How to reach me:  
