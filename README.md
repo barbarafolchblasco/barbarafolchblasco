@@ -9,7 +9,7 @@ Currently, while honing my programming and frontend development skills, I enjoy 
 👁️ Would you like to discover my projects?<br>
 https://barbarafolchblasco.github.io/Portfolio_Web/
 
-x
+
 
 📫 How to reach me:  
 [ E-mail ] folchblascobarbara@gmail.com  
