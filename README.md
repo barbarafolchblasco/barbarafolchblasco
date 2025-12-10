@@ -15,7 +15,6 @@ https://barbarafolchblasco.github.io/Portfolio_Web/
 [ E-mail ] folchblascobarbara@gmail.com  
 [ Linkedin ] www.linkedin.com/in/barbarafolchblasco/
 
-<br>
 
 ## 🖥️⚒️ Tech Stack
 
