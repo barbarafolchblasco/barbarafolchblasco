@@ -17,8 +17,8 @@ Currently, while honing my programming and frontend development skills, I enjoy 
 </p>
 
 📫 How to reach me:  
-[ E-mail ] folchblascobarbara@gmail.com  
-[ Linkedin ] www.linkedin.com/in/barbarafolchblasco/
+[  E-mail  ] folchblascobarbara@gmail.com  
+[  Linkedin  ] www.linkedin.com/in/barbarafolchblasco/
 
 ## 🖥️⚒️ Tech Stack
 
